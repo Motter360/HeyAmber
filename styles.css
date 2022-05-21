@@ -55,7 +55,7 @@ h1, h2, h3, h4, p {
     height: 500px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("images/gift-cover.jpg");
+    background-image: url("gift-cover.jpg");
     background-size: cover;
 }
 
@@ -78,7 +78,7 @@ h1, h2, h3, h4, p {
 
 
 #gift-img-welcome:hover {
-    background-image: url("images/welcome.gif");
+    background-image: url("welcome.gif");
 }
 
 #gift-img-nft {
